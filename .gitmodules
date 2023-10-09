@@ -1,0 +1,3 @@
+[submodule "deps/gl_context"]
+	path = deps/gl_context
+	url = git@github.com:OlegDanko/gl_context.git
