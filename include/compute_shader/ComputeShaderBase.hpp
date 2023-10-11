@@ -1,6 +1,7 @@
 #pragma once
 
 #include <cstddef>
+#include <array>
 #include <gl_context/ShaderProgram.hpp>
 #include <gl_context/Texture.hpp>
 #include "TypeToFormat.hpp"
